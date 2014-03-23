@@ -1,0 +1,19 @@
+/componentVersions/
+/fileTemplates/
+/filetypes/
+/inspection/
+/tasks/
+/tools/
+/quicklists/
+
+port
+
+/options/*
+!options/ui.lnf.xml
+!options/editor.codeinsight.xml
+
+# Ignore other unneeded files
+.DS_Store
+*~
+\#*
+
